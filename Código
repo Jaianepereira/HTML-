@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Página de Jogos</title>
+  <style>
+    /* Estilos CSS opcionais para a página de jogos */
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+    }
+    
+    h1 {
+      color: #333;
+    }
+    
+    .game-link {
+      display: inline-block;
+      margin: 10px;
+      padding: 10px 20px;
+      background-color: #f1f1f1;
+      border-radius: 5px;
+      text-decoration: none;
+      color: #333;
+    }
+    
+    .game-link:hover {
+      background-color: #ddd;
+    }
+  </style>
+</head>
+<body>
+  <h1>Jogos Online</h1>
+  
+  <a class="game-link" href="jogo1.html">Jogo 1</a>
+  <a class="game-link" href="jogo2.html">Jogo 2</a>
+  <a class="game-link" href="jogo3.html">Jogo 3</a>
+  
+  <!-- Adicione mais links para outros jogos -->
+  
+</body>
+</html>
